@@ -1,0 +1,10 @@
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csprojAssemblyReference.cache
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio_2_vt2.Form1.resources
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio_2_vt2.Properties.Resources.resources
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csproj.GenerateResource.cache
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csproj.CoreCompileInputs.cache
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.exe.config
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.exe
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.pdb
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.exe
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.pdb
